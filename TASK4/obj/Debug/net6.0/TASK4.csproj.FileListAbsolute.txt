@@ -1,0 +1,15 @@
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\obj\Debug\net6.0\TASK4.csproj.AssemblyReference.cache
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\obj\Debug\net6.0\TASK4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\obj\Debug\net6.0\TASK4.AssemblyInfoInputs.cache
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\obj\Debug\net6.0\TASK4.AssemblyInfo.cs
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\obj\Debug\net6.0\TASK4.csproj.CoreCompileInputs.cache
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\bin\Debug\net6.0\TASK4.exe
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\bin\Debug\net6.0\TASK4.deps.json
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\bin\Debug\net6.0\TASK4.runtimeconfig.json
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\bin\Debug\net6.0\TASK4.dll
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\bin\Debug\net6.0\TASK4.pdb
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\obj\Debug\net6.0\TASK4.dll
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\obj\Debug\net6.0\refint\TASK4.dll
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\obj\Debug\net6.0\TASK4.pdb
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\obj\Debug\net6.0\TASK4.genruntimeconfig.cache
+C:\Users\386\OneDrive\Рабочий стол\Seminar 2\TASK4\obj\Debug\net6.0\ref\TASK4.dll
